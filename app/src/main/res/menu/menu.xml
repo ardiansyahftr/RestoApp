@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/all"
+        android:icon="@drawable/ic_remove_red_eye_black_24dp"
+        android:title="ALL"
+        android:visible="true" />
+    <item
+        android:id="@+id/makanan"
+        android:icon="@drawable/ic_food"
+        android:title="MAKANAN"
+        android:visible="true" />
+    <item
+        android:id="@+id/minuman"
+        android:icon="@drawable/ic_food"
+        android:title="MINUMAN"
+        android:visible="true" />
+    <item
+        android:id="@+id/snack"
+        android:icon="@drawable/ic_food"
+        android:title="SNACK"
+        android:visible="true" />
+
+</menu>
